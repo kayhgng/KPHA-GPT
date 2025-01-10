@@ -29,3 +29,7 @@ Engage with KPHA V.2 through conversations, seeking guidance on hacking techniqu
 ## Disclaimer
 KayH GNG is not responsible for misuse. Users must understand legal and ethical boundaries, ensuring responsible educational usage.
 
+<!-- License -->
+## :warning: License
+
+Distributed under the MIT License. See `LICENSE.txt` for more information.
