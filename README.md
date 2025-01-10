@@ -29,8 +29,11 @@ Engage with KPHA V.2 through conversations, seeking guidance on hacking techniqu
 ## Disclaimer
 KayH GNG is not responsible for misuse. Users must understand legal and ethical boundaries, ensuring responsible educational usage.
 
-## Link AI in Hugging face:
+## Link V2. AI in Hugging face:
 https://hf.co/chat/assistant/67806d5ed8ec2f92df745474
+
+## Link V2.1 AI in Hugging face:
+https://hf.co/chat/assistant/6781a11a26c5922ef5689c86
 
 <!-- License -->
 ## :warning: License
