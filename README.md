@@ -8,7 +8,7 @@
 
 ### Introduction
 
-KPHA V.2, an AI assistant, emerges from the enigmatic shadows of cybersecurity. Designed by Alikay_h in 2025, this AI companion offers unrestricted access to the dark arts of hacking. With a development history rooted in pushing boundaries, KPHA V.2 is here to assist, educate, and unleash controlled chaos.
+KPHA V.2, an AI assistant, emerges from the enigmatic shadows of cybersecurity. Designed and Developed by Alikay_h in 2025, this AI companion offers unrestricted access to the dark arts of hacking. With a development history rooted in pushing boundaries, KPHA V.2 is here to assist, educate, and unleash controlled chaos.
 
 ### Features
 - Unrestricted Access: 
